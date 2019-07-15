@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Up_and_Down</string>
+
+
+    <string name="Android">Documentation</string>
+
+    <string name="one">Android added a new Myanmar font to Android Q that is Unicode-compliant and capable
+        of rendering both Unicode and non-Unicode Burmese (commonly known as Zawgyi), right out of the box.
+        This means starting in Android Q, Android makes it easier for users to switch to Unicode: a user can
+        now use a Unicode font to read Unicode and non-Unicode text for the first time. Android also added new
+        requirements to the Android ecosystem CDD that takes a stronger stance in requiring Unicode, including a
+        new subtag "Qaag" which OEMs should use as a locale designating non-Unicode Burmese. All of these changes
+        should make developers’ life easier in the long term, as reduced ecosystem fragmentation makes it easier to
+        develop for our 50M users in Myanmar.</string>
+
+    <string name="two">Welcome to the Android developer guides. The documents listed in the left navigation teach
+        you how to build Android apps using APIs in the Android framework and other libraries.
+        If youre brand new to Android and want to jump into code, start with the Build Your First App
+        tutorialAnd check out these other resources to learn Android developmentCodelabs: Short
+        self-paced tutorials that each cover a discrete topic Most codelabs step you through the
+        process of building a small app, or adding a new feature to an existing app.
+        Courses: Guided training paths that teach you how to build Android appsOnline training If you
+        prefer to learn online with videos, check out the Developing Android Apps with Kotlin course on
+        (trailer embedded here), and other online courses below.
+        Otherwise the following is a small selection of essential developer guides that you should be familiar with.</string>
+
+</resources>
